@@ -1,28 +1,36 @@
-Sehyeon KIM
----
----
-Projects
-
-2023
-
-2024
-
-2025
-
-2026
-
-'수강신청 맞교환 마켓'
----
-Studying
----
-Languages&tools
--Python -NCP
+# Sehyeon KIM
 
 ---
-Notion
+
+## Projects
+
+### 2023
+
+### 2024
+
+### 2025
+
+### 2026
+
+- 수강신청 맞교환 마켓
+
 ---
-### 🏅 Certificates & Licenses
 
-- [![NCA](https://shields.io)]([https://edu.ncloud.com/certi/rating])) (2026.11 취득)
+## Studying
 
-<img src="./images/nca_certificate.png" alt="NAVER Cloud Platform Certified Associate" width="500" />
+---
+
+## Languages & Tools
+
+- Python
+- NCP
+
+---
+
+## Notion
+
+---
+
+## 🏅 Certificates & Licenses
+
+- [<img src="./images/nca_badge.png" alt="NAVER Cloud Certified Associate" height="40" />](https://edu.ncloud.com/certi/rating) (2026.11 취득)
