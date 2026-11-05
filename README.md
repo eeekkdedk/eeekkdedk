@@ -24,3 +24,5 @@ Notion
 ### 🏅 Certificates & Licenses
 
 - [![NCA](https://shields.io)]([https://edu.ncloud.com/certi/rating])) (2026.11 취득)
+
+<img src="./images/nca_certificate.png" alt="NAVER Cloud Platform Certified Associate" width="500" />
