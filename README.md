@@ -23,4 +23,4 @@ Notion
 ---
 ### 🏅 Certificates & Licenses
 
-- [![NCA](https://shields.io)](여기에_공식_자격증_조회_링크_입력) (2026.11 취득)
+- [![NCA](https://shields.io)]([https://edu.ncloud.com/certi/rating])) (2026.11 취득)
